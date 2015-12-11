@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=lname\ fname\ id
+comment0.target=Student(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getLastName()
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment3.params=
+comment3.target=int\ getID()
+comment4.params=
+comment4.target=double\ getGPA()
+comment5.params=lname
+comment5.target=void\ setLastName(java.lang.String)
+comment6.params=fname
+comment6.target=void\ setFirstName(java.lang.String)
+comment7.params=gpa
+comment7.target=void\ setGPA(double)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=average
+comment9.target=void\ calculateGPA(double)
+numComments=10

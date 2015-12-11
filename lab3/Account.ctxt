@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Account()
+comment0.text=\r\n\ Constructor\ \#1\ -\ account\ balance\ set\ to\ default\ (0.00)\r\n
+comment1.params=bal
+comment1.target=Account(double)
+comment1.text=\r\n\ Constructor\ \#2\ -\ set\ account\ balance\ to\ a\ specified\ amount\r\n\ @param\ bal\ starting\ balance\ for\ account\r\n
+comment2.params=cusNum\ bal
+comment2.target=Account(java.lang.String,\ double)
+comment3.params=amt
+comment3.target=void\ deposit(double)
+comment3.text=\r\n\ deposit\ an\ amount\ to\ account\r\n\ @param\ amt\ amount\ to\ be\ deposited\r\n\ @return\ \ void\r\n
+comment4.params=amt
+comment4.target=double\ withdraw(double)
+comment4.text=\r\n\ withdraw\ an\ amount\ from\ account\r\n\ @param\ amount\ to\ be\ withdrawn\r\n
+comment5.params=
+comment5.target=double\ balance()
+comment5.text=\r\n\ check\ account\ balance\r\n\ @param\ none\r\n\ @return\ account\ balance\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=rate
+comment7.target=void\ accumulateInterest(double)
+numComments=8

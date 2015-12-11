@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShowImage()
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\ Create\ a\ paintComponent()\ method\ to\ override\ the\ one\ in\r\nJPanel.\r\nThis\ is\ where\ the\ drawing\ happens.\r\nWe\ don't\ have\ to\ call\ it\ in\ our\ program,\ it\ gets\ called\r\nautomatically\ whenever\ the\ panel\ needs\ to\ be\ redrawn,\r\nlike\ when\ it\ it\ made\ visible\ or\ moved\ or\ whatever.\r\n
+comment2.params=arg
+comment2.target=void\ main(java.lang.String[])
+numComments=3
